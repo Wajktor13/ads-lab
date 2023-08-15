@@ -1,0 +1,7 @@
+*.pdf
+*.jpg
+*.png
+__pycache__
+*testy.py
+*test.py
+*spec.py
