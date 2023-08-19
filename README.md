@@ -8,4 +8,5 @@ Topics covered in the course:
 * greedy programming
 * graphs
 * binary search trees
+* hash tables
 * interval trees
